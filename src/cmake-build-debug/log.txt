@@ -1,0 +1,40 @@
+Clasificacion del GP Australia
+1. Guillem Guerrero con 42.65 segundos. Puntos: 25
+2. Disque pa matar con 46.28 segundos. Puntos: 18
+3. Con su amiga con 51.65 segundos. Puntos: 15
+4. Excusa con 52.40 segundos. Puntos: 10
+5. Hoy salio con 52.65 segundos. Puntos: 8
+6. La tusa con 53.53 segundos. Puntos: 6
+7. Ya no tiene con 55.53 segundos. Puntos: 5
+8. Wesley con 115.03 segundos. Puntos: 3
+
+Clasificacion del GP Austria
+1. Disque pa matar con 23.68 segundos. Puntos: 25
+2. Guillem Guerrero con 24.05 segundos. Puntos: 18
+3. La tusa con 30.93 segundos. Puntos: 15
+4. Excusa con 31.80 segundos. Puntos: 10
+5. Con su amiga con 33.05 segundos. Puntos: 8
+6. Hoy salio con 34.05 segundos. Puntos: 6
+7. Ya no tiene con 36.92 segundos. Puntos: 5
+8. Wesley con 62.42 segundos. Puntos: 3
+
+Clasificacion del GP Italia
+1. Guillem Guerrero con 36.45 segundos. Puntos: 25
+2. Disque pa matar con 40.07 segundos. Puntos: 18
+3. Excusa con 46.20 segundos. Puntos: 15
+4. La tusa con 47.33 segundos. Puntos: 10
+5. Hoy salio con 48.45 segundos. Puntos: 8
+6. Con su amiga con 49.45 segundos. Puntos: 6
+7. Ya no tiene con 51.33 segundos. Puntos: 5
+8. Wesley con 104.82 segundos. Puntos: 3
+
+Clasificacion del GP Mexico
+1. Guillem Guerrero con 48.05 segundos. Puntos: 25
+2. Disque pa matar con 51.67 segundos. Puntos: 18
+3. La tusa con 58.92 segundos. Puntos: 15
+4. Excusa con 59.80 segundos. Puntos: 10
+5. Con su amiga con 61.05 segundos. Puntos: 8
+6. Hoy salio con 62.05 segundos. Puntos: 6
+7. Ya no tiene con 64.93 segundos. Puntos: 5
+8. Wesley con 122.43 segundos. Puntos: 3
+
